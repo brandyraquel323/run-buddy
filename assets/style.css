@@ -68,11 +68,11 @@ header {
  
 section {
     padding: 60px;
+    background-image: url("./Users/brand/projects/run-buddy/assets/images/hero-bg.jpg");
 }
 
 /* Hero Style Start */
 .hero {
-  background-image: url('../images/hero-bg.jpg');
   height: 600px;
   background-size: cover;
   background-position: center;
