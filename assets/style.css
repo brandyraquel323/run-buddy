@@ -68,11 +68,11 @@ header {
  
 section {
     padding: 60px;
-    background-image: url("./assets/images/style.css/hero-bg.jpg");
 }
 
 /* Hero Style Start */
 .hero {
+  background-image: url("./css/hero-bg.jpg");
   height: 600px;
   background-size: cover;
   background-position: center;
