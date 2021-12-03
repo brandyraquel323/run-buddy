@@ -80,6 +80,19 @@ section {
 }
 
 /* Hero Style Start */
+.hero-cta {
+  width: 35%;
+  text-align: right;
+  margin: 3.5%;
+  color: #fff;
+  font-size: 18px;
+  line-height: 1.3;
+}
+.hero-cta h2 {
+  font-style: italic;
+  font-size: 55px;
+  color: #fce138;
+}
 .hero {
   display: flex;
   justify-content: center;
